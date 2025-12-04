@@ -1,0 +1,21 @@
+order_id,product,category,price,quantity,order_date,city
+101,Notebook,Stationery,3.5,10,2025-11-01,Tokyo
+102,Pen,Stationery,1.2,50,2025-11-02,Osaka
+103,USB Cable,Electronics,6.5,5,2025-10-28,Tokyo
+104,Mouse,Electronics,12.0,3,2025-10-29,Kyoto
+105,Chair,Furniture,45.0,2,2025-09-15,Nagoya
+106,Desk,Furniture,120.0,1,2025-09-17,Tokyo
+107,Pen,Stationery,1.2,30,2025-11-03,Tokyo
+108,Notebook,Stationery,3.5,20,2025-11-05,Osaka
+109,Monitor,Electronics,150.0,2,2025-08-21,Fukuoka
+110,USB Cable,Electronics,6.0,10,2025-10-30,Osaka
+111,Pen,Stationery,1.2,25,2025-11-06,Nagoya
+112,Notebook,Stationery,3.0,15,2025-11-07,Tokyo
+113,Desk Lamp,Furniture,25.0,4,2025-07-10,Kyoto
+114,Mouse,Electronics,11.5,6,2025-10-25,Tokyo
+115,Notebook,Stationery,3.5,40,2025-11-08,Fukuoka
+116,Headphones,Electronics,55.0,3,2025-08-01,Osaka
+117,Pen,Stationery,1.5,60,2025-11-09,Tokyo
+118,USB Cable,Electronics,6.5,8,2025-10-20,Nagoya
+119,Chair,Furniture,48.0,1,2025-09-20,Tokyo
+120,Notebook,Stationery,3.5,5,2025-11-10,Osaka
